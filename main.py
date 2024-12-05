@@ -1,1 +1,1 @@
-print('fjhlfkg')
+print('Соня')
